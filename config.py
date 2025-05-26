@@ -1,6 +1,6 @@
-TOKEN = "AAH9EKu_uotJ1mQdkl4FVaf6xSak7RBpRIE" # Токен бота
+TOKEN = "8065079902:AAH9EKu_uotJ1mQdkl4FVaf6xSak7RBpRIE" # Токен бота
 
-CRYPTO = "AA04cjxIyGzouh3K53CtmtJhpqmFvvUugF2" # Токен CryptoBot
+CRYPTO = "404771:AA04cjxIyGzouh3K53CtmtJhpqmFvvUugF2" # Токен CryptoBot
 
 ADMINS = [6141927434,1324851043] # ID Админов
 
@@ -10,7 +10,7 @@ ADMINS = [6141927434,1324851043] # ID Админов
 
 bot_name = "@amamvplol_bot"
 
-bot_logs = "@Atlant_https"
+bot_logs = "6141927434"
 
 bot_channel_link = "https://t.me/test"
 
