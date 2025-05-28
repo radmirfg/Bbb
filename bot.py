@@ -27,7 +27,7 @@ while True:
 			telethon_types.InputReportReasonPersonalDetails(),
 		]
 
-		API = ""
+		API = "8065079902:AAH9EKu_uotJ1mQdkl4FVaf6xSak7RBpRIE"
 
 		bot = telebot.TeleBot(config.TOKEN)
 		bot_name = config.bot_name
